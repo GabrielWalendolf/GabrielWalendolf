@@ -1,4 +1,4 @@
-### Hi there! I'm Gabriel Walendolf 👋
+### Hey there! I'm Gabriel Walendolf 👋
 
 - 🔭 I’m currently working on my onw projects
 - 🌱 I’m currently studing software engineering at college
