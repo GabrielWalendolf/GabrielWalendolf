@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on my onw projects
 - 🌱 I’m currently studing software engineering at college
 - 📫 How to reach me: gabriel.g.walendolf@gmail.com
+- 📸 Instagram: @gabriel.walendolf
 ##
 <div>
   <a href=https://github.com/GabrielWalendolf>
