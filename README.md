@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python
+  👨‍💻 Linguagens: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  ✉️ Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
