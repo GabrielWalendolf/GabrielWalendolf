@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, HTML, CSS, JavaScript.
+  🦄 Linguagens: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python
 </p>
 
 <p align="left">
