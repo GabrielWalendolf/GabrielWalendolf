@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! Eu sou o Gabriel, estudante de Engenharia de Software com interesse em programação e desenvolvimento de software. No momento, estou estudando e buscando aprimorar meus conhecimentos para entrar no mercado de trabalho na área de tecnologia.
+  Hello! I'm Gabriel, a Software Engineering student with a passion for programming and software development. Currently, I am studying and seeking to enhance my knowledge to enter the technology job market.
 </p>
 
 <p align="left">
-  👨‍💻 Linguagens: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python
+  👨‍💻 Languages: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio Code (minha IDE principal), além de Git e GitHub para versionamento de código e organização de projetos.
+  💼 Tools: Visual Studio Code (my main IDE), along with Git and GitHub for version control and project organization.
 </p>
 
 <p align="left">
-  ✉️ Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  ✉️ Feel free to reach out to me: ⤵️
 </p>
 
 <p align="left">
