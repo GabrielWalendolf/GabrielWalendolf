@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/GabrielWalendolf/imagesreadme/blob/master/imagens/ChatGPT%20Image%2026%20de%20abr.%20de%202025%2C%2013_11_14.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Hello! I'm Gabriel, a Software Engineering student with a passion for programming and software development. Currently, I am studying and seeking to enhance my knowledge to enter the technology job market.
