@@ -8,8 +8,6 @@
 Currently focused on studying and enhancing my skills to enter the technology job market.
 </p>
 
-[![BeroLab](https://img.shields.io/badge/BeroLab-Indie_Hacker-blueviolet?style=for-the-badge)](https://www.bero.land/berolab/) 
-
 <p align="left">
   👨‍💻 Languages: HTML, CSS, JavaScript, Vue.JS, Bootstrap, Python, SQL, Java
 </p>
