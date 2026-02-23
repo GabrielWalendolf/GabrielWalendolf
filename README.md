@@ -1,29 +1,29 @@
 <div align="center">
-  <h1>Olá, eu sou o Gabriel Walendolf! </h1>
-  <b>Estudante de Engenharia de Software e Desenvolvedor em formação.</b>
+  <h1>Hi, I'm Gabriel Walendolf! </h1>
+  <b>Software Engineering Student and Developer in training.</b>
     
 
-  Sou apaixonado por transformar ideias em realidade através do código. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e mobile, sempre em busca de novos desafios e aprendizados para construir uma carreira sólida na área de tecnologia.
+  I am passionate about turning ideas into reality through code. Currently, I am focused on improving my skills in web and mobile development, always seeking new challenges and learning to build a solid career in the technology field.
 </div>
 
 ---
 
-### 🚀 Sobre Mim
-- 🎓 Cursando **Engenharia de Software**.
-- 💡 Interessado em **Desenvolvimento Front-End, Back-End e Arquitetura de Software**.
-- 🌱 Atualmente explorando **Vue.js** e aprofundando meus conhecimentos em **Java** e **Python**.
-- 🎯 Buscando minha **primeira oportunidade profissional** para aplicar meu conhecimento e contribuir em projetos reais.
+### About Me
+- Pursuing a degree in **Software Engineering**.
+- Interested in **Front-End Development, Back-End, and Software Architecture**.
+- Currently exploring **Vue.js** and deepening my knowledge in **Java** and **Python**.
+- Looking for my **first professional opportunity** to apply my knowledge and contribute to real-world projects.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Technologies and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,postgres,idea,vscode,git,github" alt="Ícones de Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,spring,php,postgres,r,idea,vscode,git,github" alt="Technology Icons"/>
 </div>
 
 ---
 
-### 📫 Conecte-se Comigo
+### Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-walendolf/" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
