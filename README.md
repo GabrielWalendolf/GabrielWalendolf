@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Gabriel Walendolf! 👋</h1>
+  <h1>Olá, eu sou o Gabriel Walendolf! </h1>
   <b>Estudante de Engenharia de Software e Desenvolvedor em formação.</b>
     
 
@@ -18,7 +18,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,postgres,vscode,git,github" alt="Ícones de Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,postgres,idea,vscode,git,github" alt="Ícones de Tecnologias"/>
 </div>
 
 ---
