@@ -3,7 +3,7 @@
   <b>Software Engineering Student and Developer in training.</b>
     
 
-  I am passionate about turning ideas into reality through code. Currently, I am focused on improving my skills in web and mobile development, always seeking new challenges and learning to build a solid career in the technology field.
+  I am passionate about turning ideas into reality through code. Currently, I am focused on improving my skills in **Full Stack development**, always seeking new challenges and learning to build a solid career in the technology field.
 </div>
 
 ---
@@ -11,7 +11,8 @@
 ### About Me
 - Pursuing a degree in **Software Engineering**.
 - Interested in **Front-End Development, Back-End, and Software Architecture**.
-- Currently exploring **Vue.js** and deepening my knowledge in **Java** and **Python**.
+- Currently exploring **Java** and **Full Stack development**.
+- Working on the creation of **Landing Pages** and deepening my knowledge in modern frameworks.
 - Looking for my **first professional opportunity** to apply my knowledge and contribute to real-world projects.
 
 ---
@@ -37,4 +38,8 @@
   <a href="https://www.instagram.com/gabriel.walendolf/" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://discord.gg/ZcBYHxJ5mP">
+    <img src="https://img.shields.io/badge/Discord-969696?style=for-the-badge&logo=discord" />
+  </a>
+
 </div>
