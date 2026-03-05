@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Gabriel Walendolf! </h1>
   <b>Software Engineering Student and Developer in training.</b>
-    
+
 
   I am passionate about turning ideas into reality through code. Currently, I am focused on improving my skills in **Full Stack development**, always seeking new challenges and learning to build a solid career in the technology field.
 </div>
@@ -21,14 +21,14 @@
 <div align="center">
   <p><strong>Front-end</strong></p>
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" alt="Front-end Icons"/>
-  
+
   <br><br>
-  
+
   <p><strong>Back-end & Databases</strong></p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,php,postgres,r" alt="Back-end & Database Icons"/>
-  
+
   <br><br>
-  
+
   <p><strong>Tools & IDEs</strong></p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools Icons"/>
 </div>
