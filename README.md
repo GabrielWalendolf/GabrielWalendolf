@@ -25,14 +25,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/GabrielWalendolf">
-    <img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/GabrielWalendolf">
-    <img src="https://github-readme-stats-nu-six-66.vercel.app/api/top-langs/?username=GabrielWalendolf&theme=dark&layout=compact&hide_border=true" alt="Linguagens mais usadas por Gabriel" />
-  </a>
-
+  <a href="https://github.com/GabrielWalendolf"><img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" /></a>
+  <a href="https://github.com/GabrielWalendolf"><img src="https://github-readme-stats-nu-six-66.vercel.app/api/top-langs/?username=GabrielWalendolf&theme=dark&layout=compact&hide_border=true" alt="Linguagens mais usadas por Gabriel" /></a>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielWalendolf&theme=dark&hide_border=true" alt="Gabriel's Streak" />
 </div>
@@ -41,24 +35,9 @@
 
 ### Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-walendolf/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:gabriel.g.walendolf@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.me/5547992547218" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
-  <a href="https://www.instagram.com/gabriel.walendolf/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://discord.gg/ZcBYHxJ5mP">
-    <img src="https://img.shields.io/badge/Discord-969696?style=for-the-badge&logo=discord" />
-  </a>
-
+  <a href="https://www.linkedin.com/in/gabriel-walendolf/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabriel.g.walendolf@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/5547992547218" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/gabriel.walendolf/" title="Instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/ZcBYHxJ5mP"><img src="https://img.shields.io/badge/Discord-969696?style=for-the-badge&logo=discord" /></a>
 </div>
