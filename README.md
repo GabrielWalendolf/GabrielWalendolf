@@ -22,7 +22,20 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,spring,php,postgres,r,idea,vscode,git,github" alt="Technology Icons"/>
 </div>
 
-![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielWalendolf)
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/GabrielWalendolf">
+    <img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/GabrielWalendolf">
+    <img src="https://github-readme-stats-nu-six-66.vercel.app/api/top-langs/?username=GabrielWalendolf&theme=dark&layout=compact&hide_border=true" alt="Linguagens mais usadas por Gabriel" />
+  </a>
+
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielWalendolf&theme=dark&hide_border=true" alt="Gabriel's Streak" />
+</div>
 
 ---
 
