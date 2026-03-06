@@ -38,7 +38,8 @@
   <a href="https://github.com/GabrielWalendolf"><img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" /></a>
   <a href="https://github.com/GabrielWalendolf"><img src="https://github-readme-stats-nu-six-66.vercel.app/api/top-langs/?username=GabrielWalendolf&theme=dark&layout=compact&hide_border=true" alt="Linguagens mais usadas por Gabriel" /></a>
   <br/>
-  <img src="https://github-readme-streak-stats-sepia-zeta-91.vercel.app/demo/?user=GabrielWalendolf&theme=dark&hide_border=true" alt="Gabriel's Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-fr14.vercel.app?user=GabrielWalendolf&theme=synthwave&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  
   
 </div>
 
