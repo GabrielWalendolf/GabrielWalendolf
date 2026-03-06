@@ -22,6 +22,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,spring,php,postgres,r,idea,vscode,git,github" alt="Technology Icons"/>
 </div>
 
+![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=GabrielWalendolf)
+
 ---
 
 ### Connect With Me
