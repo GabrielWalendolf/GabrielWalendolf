@@ -38,7 +38,7 @@
   <a href="https://github.com/GabrielWalendolf"><img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" /></a>
   <a href="https://github.com/GabrielWalendolf"><img src="https://github-readme-stats-nu-six-66.vercel.app/api/top-langs/?username=GabrielWalendolf&theme=dark&layout=compact&hide_border=true" alt="Linguagens mais usadas por Gabriel" /></a>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielWalendolf&theme=dark&hide_border=true&v=3" alt="Gabriel's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielWalendolf&theme=dark&hide_border=true&timestamp=20260306" alt="Gabriel's Streak" />
 </div>
 
 ---
