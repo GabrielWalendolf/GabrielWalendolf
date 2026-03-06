@@ -19,9 +19,19 @@
 
 ### Technologies and Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,java,spring,php,postgres,r,idea,vscode,git,github" alt="Technology Icons"/>
+  <p><strong>Front-end</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap" alt="Front-end Icons"/>
+  
+  <br><br>
+  
+  <p><strong>Back-end & Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,php,postgres,r" alt="Back-end & Database Icons"/>
+  
+  <br><br>
+  
+  <p><strong>Tools & IDEs</strong></p>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools Icons"/>
 </div>
-
 ### GitHub Stats
 
 <div align="center">
