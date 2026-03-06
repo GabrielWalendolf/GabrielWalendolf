@@ -32,7 +32,7 @@
   <p><strong>Tools & IDEs</strong></p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools Icons"/>
 </div>
-### GitHub Stats
+<h3>GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/GabrielWalendolf"><img height="180" src="https://github-readme-stats-nu-six-66.vercel.app/api?username=GabrielWalendolf&theme=dark&show_icons=true&hide_border=true" /></a>
@@ -43,7 +43,7 @@
 
 ---
 
-### Connect With Me
+<h3>Connect With Me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-walendolf/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gabriel.g.walendolf@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
