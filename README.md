@@ -2,7 +2,6 @@
   <h1>Hi, I'm Gabriel Walendolf! </h1>
   <b>Software Engineering Student and Developer in training.</b>
 
-
   I am passionate about turning ideas into reality through code. Currently, I am focused on improving my skills in **Full Stack development**, always seeking new challenges and learning to build a solid career in the technology field.
 </div>
 
