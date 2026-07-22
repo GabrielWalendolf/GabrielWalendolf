@@ -30,18 +30,6 @@
 
   <p><strong>Tools & IDEs</strong></p>
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github" alt="Tools Icons"/>
-</div>
-<h3>GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-fr14.vercel.app?user=GabrielWalendolf&theme=dark&v=101" alt="GitHub Streak" />
-  </a>
-
-  
-  
-  
-</div>
 
 ---
 
