@@ -70,23 +70,6 @@ const gabriel = {
       <img src="https://img.shields.io/badge/Live-netlab.walendolf.dev-7c3aed?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📅 <a href="https://agenda.universodown.ong.br">Agenda de Atendimentos</a></h3>
-      <p>Scheduling and patient management system in production at Universo Down. Evolving into a multi-tenant SaaS with row level security per organization.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-      <img src="https://img.shields.io/badge/In_production-22c55e?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ <a href="https://palavra-a-palavra.walendolf.dev">Palavra a Palavra</a></h3>
-      <p>Speech therapy platform with a phonetic assessment workflow and AI assisted repertoire classification through serverless routes.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
       <h3>💳 <a href="https://noirwallet.walendolf.dev">Noir Wallet</a></h3>
       <p>Personal finance app with a minimal dark interface, a REST API and a serverless PostgreSQL database.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -94,6 +77,7 @@ const gabriel = {
       <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" />
     </td>
   </tr>
+  
 </table>
 
 ---
