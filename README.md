@@ -110,18 +110,22 @@ const gabriel = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielWalendolf&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/activity-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/activity-graph-light.svg" />
+    <img width="100%" alt="Contribution activity" src="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/activity-graph-dark.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🐍 Contributions
+## 🌊 Contributions
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/contrib-wave-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/contrib-wave-light.svg" />
+    <img width="100%" alt="Contribution wave animation" src="https://raw.githubusercontent.com/GabrielWalendolf/GabrielWalendolf/output/contrib-wave-dark.svg" />
   </picture>
 </p>
 
